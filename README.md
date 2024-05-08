@@ -1,3 +1,5 @@
-# JavaPO
-## Programowanie Obiektowe sem 2 - Java
-Projekt wirtualnego świata napisany zgodnie z zasadami programowania obiektowego w języku java
+# Virtual World - Java
+
+## A Java project written for the Object Oriented Programming course at Gdańsk Tech Summer 2023
+
+An interactive game implementing the core ideas of OOP written in Java and with self made graphics!
